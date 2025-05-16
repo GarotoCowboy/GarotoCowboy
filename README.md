@@ -5,9 +5,6 @@
 - 🔭 Hoje eu estou em busca de um estágio
 - 🌱 Estudando Golang e React
 - 📫 Contate-me no e-mail: comercial.pedromarques@gmail.com
-- 😄 Pronouns: Ele/Dele
-
-
 
 <div>
   <a href="https://github.com/GarotoCowboy/github-readme-stats">
