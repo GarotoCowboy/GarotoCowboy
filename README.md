@@ -1,4 +1,6 @@
-## Olá Eu sou Pedro Henrique
+ <h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=3000&color=8D10F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Me+chamo+Pedro" alt="Typing SVG" /></a>
+</h1>
 
 - 🔭 Hoje eu estou em busca de um estágio
 - 🌱 Estudando Golang e React
@@ -10,7 +12,6 @@
 <div>
   <a href="https://github.com/GarotoCowboy/github-readme-stats">
   <img height=200em src="https://github-readme-stats.vercel.app/api?username=GarotoCowboy&theme=jolly&show_icons=true&include_all_commits-true&count_private-true"/>
-  </br>
   <img height=200em [![Top Langs] src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarotoCowboy&theme=jolly"/>
 </div>
 
@@ -36,4 +37,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-marques-rocha-984098266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/GarotoCowboy/GarotoCowboy/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=3000&color=8D10F7&width=435&lines=Obrigado+Pela+Aten%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+</h1>
