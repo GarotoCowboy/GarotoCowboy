@@ -3,6 +3,7 @@
 </h1>
 
 - 🔭 Hoje eu estou em busca de um estágio
+- 🏫 Aluno no Instituto Federal Goiano Campus Urutaí
 - 🌱 Estudando Golang e React
 - 📫 Contate-me no e-mail: comercial.pedromarques@gmail.com
 
