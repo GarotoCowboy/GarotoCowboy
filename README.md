@@ -2,9 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=3000&color=8D10F7&width=435&lines=Ol%C3%A1%F0%9F%91%8B;Me+chamo+Pedro" alt="Typing SVG" /></a>
 </h1>
 
-- 🔭 Hoje eu estou em busca de um estágio
+- 🔭 Hoje eu estou em busca de uma vaga para desenvolvimento de software em Java,GO
 - 🏫 Aluno no Instituto Federal Goiano Campus Urutaí
-- 🌱 Estudando Golang e React
+- 🌱 Estudando Golang e Flutter
 - 📫 Contate-me no e-mail: comercial.pedromarques@gmail.com
 
 <div>
